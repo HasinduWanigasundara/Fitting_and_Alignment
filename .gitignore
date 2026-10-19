@@ -220,3 +220,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 results/question4/
+
+# Personal study notebooks
+walkthroughs/
